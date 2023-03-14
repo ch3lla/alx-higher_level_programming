@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 9-max_integer.py
-def my_integer(my_list=[]):
+def max_integer(my_list=[]):
     """Return the biggest integer of a list."""
     if len(my_list) == 0:
         return (None)
